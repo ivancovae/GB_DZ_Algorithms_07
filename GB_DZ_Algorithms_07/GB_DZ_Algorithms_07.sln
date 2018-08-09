@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GB_DZ_Algorithms_07", "GB_DZ_Algorithms_07.vcxproj", "{8835D4CD-3290-48FD-81BE-83B0B1E178F7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libGraph", "..\libGraph\libGraph.vcxproj", "{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{8835D4CD-3290-48FD-81BE-83B0B1E178F7}.Release|x64.Build.0 = Release|x64
 		{8835D4CD-3290-48FD-81BE-83B0B1E178F7}.Release|x86.ActiveCfg = Release|Win32
 		{8835D4CD-3290-48FD-81BE-83B0B1E178F7}.Release|x86.Build.0 = Release|Win32
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Debug|x64.ActiveCfg = Debug|x64
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Debug|x64.Build.0 = Debug|x64
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Debug|x86.Build.0 = Debug|Win32
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Release|x64.ActiveCfg = Release|x64
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Release|x64.Build.0 = Release|x64
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Release|x86.ActiveCfg = Release|Win32
+		{3031E874-4C9A-45AD-8EAD-0A9F13AFB0B7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
